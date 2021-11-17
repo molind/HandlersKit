@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "HandlersKit",
     platforms: [
-        .iOS(.v10),
+        .iOS(.v9),
         .tvOS(.v10)
     ],
     products: [
